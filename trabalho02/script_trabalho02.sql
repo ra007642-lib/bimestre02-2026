@@ -85,3 +85,4 @@ SELECT consultar_produto(1);
 SELECT calcular_total_venda(1);
 
 SELECT faturamento_categoria(1);
+
